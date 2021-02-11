@@ -1,10 +1,10 @@
 {
     "name": "adapt-blinds",
-    "repository": "git://github.com/danielstorey/adapt-blinds.git",
+    "repository": "git://github.com/Ilya703/Adapt-pic.git",
     "framework": ">=3",
     "version": "3.0.1",
-    "homepage": "https://github.com/danielstorey/adapt-blinds",
-    "issues": "https://github.com/danielstorey/adapt-blinds/issues",
+    "homepage": "https://github.com/Ilya703/Adapt-pic",
+    "issues": "https://github.com/Ilya703/Adapt-pic/issues",
     "displayName": "Blinds",
     "component": "blinds",
     "description": "Horizontally stacked images widen when hovered over. Optional captions are displayed. Demo available.",
