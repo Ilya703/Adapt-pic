@@ -1,16 +1,16 @@
 {
-    "name": "adapt-blinds",
+    "name": "adapt-black",
     "repository": "git://github.com/Ilya703/Adapt-pic.git",
     "framework": ">=3",
     "version": "3.0.1",
     "homepage": "https://github.com/Ilya703/Adapt-pic",
     "issues": "https://github.com/Ilya703/Adapt-pic/issues",
-    "displayName": "Blinds",
-    "component": "blinds",
+    "displayName": "black",
+    "component": "black",
     "description": "Horizontally stacked images widen when hovered over. Optional captions are displayed. Demo available.",
-    "main": "/js/adapt-blinds.js",
+    "main": "/js/adapt-black.js",
     "keywords": [
-        "adapt-blinds",
+        "adapt-black",
         "adapt-plugin",
         "adapt-component"
     ],
